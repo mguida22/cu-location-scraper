@@ -1,0 +1,866 @@
+[
+    {
+        "code": "UCTR",
+        "latitude": "40.004141",
+        "name": "914 Broadway",
+        "longitude": "-105.268183186397"
+    },
+    {
+        "code": "TB19",
+        "latitude": "40.0042083",
+        "name": "924 Broadway",
+        "longitude": "-105.268604333013"
+    },
+    {
+        "code": "TB97",
+        "latitude": "40.01131415",
+        "name": "Academic Advising Center: Students in Transition",
+        "longitude": "-105.275472201157"
+    },
+    {
+        "code": "ADEN",
+        "latitude": "40.0068619",
+        "name": "Aden Hall",
+        "longitude": "-105.265401203197"
+    },
+    {
+        "code": "ARCE",
+        "latitude": "40.0133072",
+        "name": "Administrative and Research Center",
+        "longitude": "-105.251943549839"
+    },
+    {
+        "code": "ANDS",
+        "latitude": "40.0031513",
+        "name": "Andrews Hall",
+        "longitude": "-105.26247333181"
+    },
+    {
+        "code": "ARMR",
+        "latitude": "40.01094235",
+        "name": "Armory",
+        "longitude": "-105.273903780463"
+    },
+    {
+        "code": "ARNT",
+        "latitude": "40.00339945",
+        "name": "Arnett Hall",
+        "longitude": "-105.261170406283"
+    },
+    {
+        "code": "IBS1",
+        "latitude": "40.0109327",
+        "name": "Arts and Sciences Finance and Payroll Administration",
+        "longitude": "-105.276778666863"
+    },
+    {
+        "code": "OB1",
+        "latitude": "40.01084115",
+        "name": "Arts and Sciences Office Building 1",
+        "longitude": "-105.273543903979"
+    },
+    {
+        "code": "ATCT",
+        "latitude": "40.01226975",
+        "name": "Athens Court",
+        "longitude": "-105.268668650165"
+    },
+    {
+        "code": "ATHN",
+        "latitude": "40.01291035",
+        "name": "Athens North Court",
+        "longitude": "-105.270865551259"
+    },
+    {
+        "code": "W-AP",
+        "latitude": "40.01240135",
+        "name": "Athletics Practice Field",
+        "longitude": "-105.266171749396"
+    },
+    {
+        "code": "BKER",
+        "latitude": "40.0068522",
+        "name": "Baker Hall",
+        "longitude": "-105.267833399666"
+    },
+    {
+        "code": "FH",
+        "latitude": "40.009437",
+        "name": "Balch Fieldhouse",
+        "longitude": "-105.267898051388"
+    },
+    {
+        "code": "BCAP",
+        "latitude": "39.997334",
+        "name": "Bear Creek Apartments at Williams Village",
+        "longitude": "-105.250202342424"
+    },
+    {
+        "code": "BESC",
+        "latitude": "40.0079671",
+        "name": "Benson Earth Sciences",
+        "longitude": "-105.265886266738"
+    },
+    {
+        "code": "BRKT",
+        "latitude": "40.00712955",
+        "name": "Brackett Hall",
+        "longitude": "-105.264947006529"
+    },
+    {
+        "code": "MCOL",
+        "latitude": "40.00748945",
+        "name": "Bruce Curtis Building (Museum Collections)",
+        "longitude": "-105.274219097335"
+    },
+    {
+        "code": "BUCK",
+        "latitude": "40.0024048",
+        "name": "Buckingham Hall",
+        "longitude": "-105.2610011"
+    },
+    {
+        "code": "W-BF",
+        "latitude": "40.0055133",
+        "name": "Business Field",
+        "longitude": "-105.2623091637"
+    },
+    {
+        "code": "KOBL",
+        "latitude": "40.00581345",
+        "name": "Business, Leeds School of Business, BUS",
+        "longitude": "-105.263457273584"
+    },
+    {
+        "code": "UMC",
+        "latitude": "40.00673025",
+        "name": "CU Book Store",
+        "longitude": "-105.271554250578"
+    },
+    {
+        "code": "MAIN",
+        "latitude": "40.0092235",
+        "name": "CU Heritage Center",
+        "longitude": "-105.273357276017"
+    },
+    {
+        "code": "CARL",
+        "latitude": "40.009459",
+        "name": "Carlson Gymnasium",
+        "longitude": "-105.268492597244"
+    },
+    {
+        "code": "CAS",
+        "latitude": "40.0111456",
+        "name": "Center for Asian Studies",
+        "longitude": "-105.276898496019"
+    },
+    {
+        "code": "CASA",
+        "latitude": "40.0079737",
+        "name": "Center for Astrophysics and Space Astronomy",
+        "longitude": "-105.24633857663"
+    },
+    {
+        "code": "c4c",
+        "latitude": "40.004395",
+        "name": "Center for Community",
+        "longitude": "-105.264973100894"
+    },
+    {
+        "code": "URES",
+        "latitude": "39.99600145",
+        "name": "Chancellor's Residence,PRES,President's Residence",
+        "longitude": "-105.247512985742"
+    },
+    {
+        "code": "CHEY",
+        "latitude": "40.00521865",
+        "name": "Cheyenne Arapaho Hall",
+        "longitude": "-105.267832147787"
+    },
+    {
+        "code": "CLRE",
+        "latitude": "40.01048595",
+        "name": "Clare Small Arts and Sciences",
+        "longitude": "-105.270075409772"
+    },
+    {
+        "code": "CKRL",
+        "latitude": "40.00685905",
+        "name": "Cockerell Hall",
+        "longitude": "-105.264508840091"
+    },
+    {
+        "code": "COMP",
+        "latitude": "40.0140397",
+        "name": "Computing Center",
+        "longitude": "-105.247206976034"
+    },
+    {
+        "code": "CEDU",
+        "latitude": "40.0109234",
+        "name": "Continuing Education",
+        "longitude": "-105.274453886037"
+    },
+    {
+        "code": "CIRE",
+        "latitude": "40.0077862",
+        "name": "Cooperative Institute for Research in Environmental Sciences",
+        "longitude": "-105.271480569897"
+    },
+    {
+        "code": "EVNT",
+        "latitude": "40.00468695",
+        "name": "Coors Events/Conference Center",
+        "longitude": "-105.260606569194"
+    },
+    {
+        "code": "CHEM",
+        "latitude": "40.00747815",
+        "name": "Cristol Chemistry and Biochemistry",
+        "longitude": "-105.271125042773"
+    },
+    {
+        "code": "CROS",
+        "latitude": "40.00634085",
+        "name": "Crosman Hall",
+        "longitude": "-105.264772199841"
+    },
+    {
+        "code": "DALW",
+        "latitude": "40.0103802",
+        "name": "Dal Ward Athletic Center",
+        "longitude": "-105.266917976981"
+    },
+    {
+        "code": "W-TF",
+        "latitude": "40.00869005",
+        "name": "Dalton Trumbo Fountain Court",
+        "longitude": "-105.272039916478"
+    },
+    {
+        "code": "DLYC",
+        "latitude": "39.99772015",
+        "name": "Darley Commons",
+        "longitude": "-105.25180247072"
+    },
+    {
+        "code": "DLYT",
+        "latitude": "39.9981042",
+        "name": "Darley Towers",
+        "longitude": "-105.252363815826"
+    },
+    {
+        "code": "DLC",
+        "latitude": "40.00746235",
+        "name": "Discovery Learning Center",
+        "longitude": "-105.261955257417"
+    },
+    {
+        "code": "DUAN",
+        "latitude": "40.00792235",
+        "name": "Duane Physics and Astrophysics",
+        "longitude": "-105.26754328213"
+    },
+    {
+        "code": "HUMN",
+        "latitude": "40.00918795",
+        "name": "Eaton Humanities",
+        "longitude": "-105.271825218346"
+    },
+    {
+        "code": "ECON",
+        "latitude": "40.00782925",
+        "name": "Economics",
+        "longitude": "-105.274538466203"
+    },
+    {
+        "code": "EDUC",
+        "latitude": "40.00745665",
+        "name": "Education",
+        "longitude": "-105.273591347719"
+    },
+    {
+        "code": "EKLC",
+        "latitude": "40.00809175",
+        "name": "Ekeley Sciences",
+        "longitude": "-105.271800646453"
+    },
+    {
+        "code": "ENVD",
+        "latitude": "40.0070803",
+        "name": "Environmental Design",
+        "longitude": "-105.269234560008"
+    },
+    {
+        "code": "EHSC",
+        "latitude": "40.0060909",
+        "name": "Environmental Health and Safety Center ",
+        "longitude": "-105.259797448367"
+    },
+    {
+        "code": "DACR",
+        "latitude": "40.0142189",
+        "name": "Family Housing Children's Center - Newton Court",
+        "longitude": "-105.266028798607"
+    },
+    {
+        "code": "W-FA",
+        "latitude": "40.0060331",
+        "name": "Farrand Field",
+        "longitude": "-105.267544049951"
+    },
+    {
+        "code": "FRND",
+        "latitude": "40.0060079",
+        "name": "Farrand Hall",
+        "longitude": "-105.265789859136"
+    },
+    {
+        "code": "FISK",
+        "latitude": "40.00359525",
+        "name": "Fiske Planetarium and Science Center",
+        "longitude": "-105.263537764011"
+    },
+    {
+        "code": "FLMG",
+        "latitude": "40.00200125",
+        "name": "Fleming Building",
+        "longitude": "-105.263249198673"
+    },
+    {
+        "code": "STAD",
+        "latitude": "40.00938065",
+        "name": "Folsom Field",
+        "longitude": "-105.26607987562"
+    },
+    {
+        "code": "W-FR",
+        "latitude": "40.0088108",
+        "name": "Franklin Field",
+        "longitude": "-105.2648938"
+    },
+    {
+        "code": "W-GT",
+        "latitude": "40.006776",
+        "name": "Gamow Tower",
+        "longitude": "-105.2527865"
+    },
+    {
+        "code": "COTT",
+        "latitude": "40.0081606",
+        "name": "Gates Woodruff Women's Studies Cottage",
+        "longitude": "-105.274828941689"
+    },
+    {
+        "code": "GOLD",
+        "latitude": "40.00861495",
+        "name": "Gold Biosciences Building",
+        "longitude": "-105.268243840366"
+    },
+    {
+        "code": "GUGG",
+        "latitude": "40.008162",
+        "name": "Guggenheim Geography",
+        "longitude": "-105.274230726741"
+    },
+    {
+        "code": "HALE",
+        "latitude": "40.00919235",
+        "name": "Hale Science",
+        "longitude": "-105.274961779524"
+    },
+    {
+        "code": "HLET",
+        "latitude": "40.00520365",
+        "name": "Hallett Hall",
+        "longitude": "-105.26540201079"
+    },
+    {
+        "code": "HLMS",
+        "latitude": "40.0073438",
+        "name": "Hellems Arts and Sciences",
+        "longitude": "-105.272414628047"
+    },
+    {
+        "code": "HSMC",
+        "latitude": "40.01312675",
+        "name": "Housing System Maintenance Center",
+        "longitude": "-105.24843652738"
+    },
+    {
+        "code": "HSSC",
+        "latitude": "40.0139835",
+        "name": "Housing System Service Center",
+        "longitude": "-105.249211606325"
+    },
+    {
+        "code": "HUMN",
+        "latitude": "40.00918795",
+        "name": "Humanities",
+        "longitude": "-105.271825218346"
+    },
+    {
+        "code": "MUS",
+        "latitude": "40.0061528",
+        "name": "Imig Music",
+        "longitude": "-105.268983472421"
+    },
+    {
+        "code": "IBG",
+        "latitude": "40.0117577",
+        "name": "Institute for Behavioral Genetics ",
+        "longitude": "-105.253080809876"
+    },
+    {
+        "code": "IBS",
+        "latitude": "40.0114388",
+        "name": "Institute of Behavioral Science ",
+        "longitude": "-105.274449950429"
+    },
+    {
+        "code": "IBS2",
+        "latitude": "40.01206995",
+        "name": "Institute of Behavioral Science No. 02",
+        "longitude": "-105.277203121508"
+    },
+    {
+        "code": "IBS4",
+        "latitude": "40.01138825",
+        "name": "Institute of Behavioral Science No. 04 ",
+        "longitude": "-105.2767717"
+    },
+    {
+        "code": "IBS6",
+        "latitude": "40.0116976",
+        "name": "Institute of Behavioral Science No. 06",
+        "longitude": "-105.276374484239"
+    },
+    {
+        "code": "IBS7",
+        "latitude": "40.0113787",
+        "name": "Institute of Behavioral Science No. 07 ",
+        "longitude": "-105.276204277546"
+    },
+    {
+        "code": "IBS9",
+        "latitude": "40.00447385",
+        "name": "Institute of Behavioral Science No. 09",
+        "longitude": "-105.257936527142"
+    },
+    {
+        "code": "ITLL",
+        "latitude": "40.00685835",
+        "name": "Integrated Teaching and Learning Laboratory",
+        "longitude": "-105.261756885273"
+    },
+    {
+        "code": "IEC",
+        "latitude": "40.0057497",
+        "name": "International English Center",
+        "longitude": "-105.274659075716"
+    },
+    {
+        "code": "JILA",
+        "latitude": "40.00728345",
+        "name": "JILA",
+        "longitude": "-105.268663280408"
+    },
+    {
+        "code": "BIOT",
+        "latitude": "40.0083018",
+        "name": "Jennie Smoly Caruthers Biotec Building",
+        "longitude": "-105.248891041463"
+    },
+    {
+        "code": "KTCH",
+        "latitude": "40.00807315",
+        "name": "Ketchum Arts and Sciences",
+        "longitude": "-105.270224645999"
+    },
+    {
+        "code": "KCEN",
+        "latitude": "40.0027888",
+        "name": "Kittredge Central",
+        "longitude": "-105.263167948225"
+    },
+    {
+        "code": "W-KF",
+        "latitude": "40.00292385",
+        "name": "Kittredge Field",
+        "longitude": "-105.2595568"
+    },
+    {
+        "code": "KITW",
+        "latitude": "40.002805",
+        "name": "Kittredge West Hall",
+        "longitude": "-105.264064464724"
+    },
+    {
+        "code": "KOBL",
+        "latitude": "40.00581345",
+        "name": "Koelbel Building",
+        "longitude": "-105.263457273584"
+    },
+    {
+        "code": "ALUM",
+        "latitude": "40.0099452",
+        "name": "Koenig Alumni Center",
+        "longitude": "-105.275940815911"
+    },
+    {
+        "code": "LSTR",
+        "latitude": "40.00906105",
+        "name": "LASP Space Technology Research Center",
+        "longitude": "-105.24781930379"
+    },
+    {
+        "code": "LESS",
+        "latitude": "40.0086002",
+        "name": "Lesser House",
+        "longitude": "-105.261695005019"
+    },
+    {
+        "code": "LIBY",
+        "latitude": "40.00689195",
+        "name": "Libby Hall",
+        "longitude": "-105.26637295"
+    },
+    {
+        "code": "MAC",
+        "latitude": "40.0178615",
+        "name": "MacAllister Building",
+        "longitude": "-105.2561907"
+    },
+    {
+        "code": "MCKY",
+        "latitude": "40.0099895",
+        "name": "Macky Auditorium",
+        "longitude": "-105.272763976226"
+    },
+    {
+        "code": "MRCT",
+        "latitude": "40.013436",
+        "name": "Marine Court",
+        "longitude": "-105.26869684996"
+    },
+    {
+        "code": "W-MR",
+        "latitude": "40.0071797",
+        "name": "Mary Rippon Theatre",
+        "longitude": "-105.272764887648"
+    },
+    {
+        "code": "MATH",
+        "latitude": "40.00768955",
+        "name": "Mathematics Building",
+        "longitude": "-105.264575875349"
+    },
+    {
+        "code": "MKNA",
+        "latitude": "40.0097976",
+        "name": "McKenna Languages",
+        "longitude": "-105.273597999648"
+    },
+    {
+        "code": "MUEN",
+        "latitude": "40.0085927",
+        "name": "Muenzinger Psychology",
+        "longitude": "-105.269229199588"
+    },
+    {
+        "code": "MCOL",
+        "latitude": "40.00748945",
+        "name": "Museum Collections ",
+        "longitude": "-105.274219097335"
+    },
+    {
+        "code": "HEND",
+        "latitude": "40.00687815",
+        "name": "Museum of Natural History",
+        "longitude": "-105.272775939396"
+    },
+    {
+        "code": "NTCT",
+        "latitude": "40.01248805",
+        "name": "Newton Court",
+        "longitude": "-105.264382925804"
+    },
+    {
+        "code": "LIBR",
+        "latitude": "40.0087071",
+        "name": "Norlin Library",
+        "longitude": "-105.270768245113"
+    },
+    {
+        "code": "W-NQ",
+        "latitude": "40.0072838",
+        "name": "Norlin Quadrangle",
+        "longitude": "-105.2716938"
+    },
+    {
+        "code": "MAIN",
+        "latitude": "40.0092235",
+        "name": "Old Main",
+        "longitude": "-105.273357276017"
+    },
+    {
+        "code": "PDPS",
+        "latitude": "40.0067495",
+        "name": "Police and Parking Services",
+        "longitude": "-105.261052583238"
+    },
+    {
+        "code": "PORT",
+        "latitude": "40.00891835",
+        "name": "Porter Biosciences",
+        "longitude": "-105.26892881753"
+    },
+    {
+        "code": "W-PF",
+        "latitude": "40.01044465",
+        "name": "Potts Field",
+        "longitude": "-105.248648599221"
+    },
+    {
+        "code": "POWR",
+        "latitude": "40.00759835",
+        "name": "Power House",
+        "longitude": "-105.269100680178"
+    },
+    {
+        "code": "W-PRF",
+        "latitude": "40.0102072",
+        "name": "Prentup Field",
+        "longitude": "-105.250483065029"
+    },
+    {
+        "code": "RAMY",
+        "latitude": "40.008922",
+        "name": "Ramaley Biology",
+        "longitude": "-105.269666038957"
+    },
+    {
+        "code": "REED",
+        "latitude": "40.0056582",
+        "name": "Reed Hall",
+        "longitude": "-105.264774149277"
+    },
+    {
+        "code": "RGNT",
+        "latitude": "40.00439785",
+        "name": "Regent Administrative Center",
+        "longitude": "-105.267027595646"
+    },
+    {
+        "code": "RPRK",
+        "latitude": "40.0068942",
+        "name": "Regent Drive AutoPark",
+        "longitude": "-105.26041318545"
+    },
+    {
+        "code": "LITR",
+        "latitude": "40.0133195",
+        "name": "Research Laboratory No. 1, Litman",
+        "longitude": "-105.253015648772"
+    },
+    {
+        "code": "RL2",
+        "latitude": "40.01260385",
+        "name": "Research Laboratory No. 2, RL2",
+        "longitude": "-105.253033494005"
+    },
+    {
+        "code": "LSRL",
+        "latitude": "40.01212525",
+        "name": "Research Laboratory No. 4, Life Science",
+        "longitude": "-105.252844572005"
+    },
+    {
+        "code": "MSSC",
+        "latitude": "40.01388975",
+        "name": "Research Laboratory No. 6, Marine Street Science Center",
+        "longitude": "-105.250215048139"
+    },
+    {
+        "code": "GH-3",
+        "latitude": "40.01063545",
+        "name": "Research Park Greenhouse",
+        "longitude": "-105.252469900452"
+    },
+    {
+        "code": "ATLS",
+        "latitude": "40.0075543",
+        "name": "Roser ATLAS Center",
+        "longitude": "-105.269918292967"
+    },
+    {
+        "code": "SLL",
+        "latitude": "40.01281525",
+        "name": "Science Learning Laboratory ",
+        "longitude": "-105.249846490212"
+    },
+    {
+        "code": "SWLL",
+        "latitude": "40.01049495",
+        "name": "Sewall Hall",
+        "longitude": "-105.271125437341"
+    },
+    {
+        "code": "SMCT",
+        "latitude": "40.0091988",
+        "name": "Smiley Court",
+        "longitude": "-105.253176349401"
+    },
+    {
+        "code": "SMTH",
+        "latitude": "40.00222405",
+        "name": "Smith Hall",
+        "longitude": "-105.262271396453"
+    },
+    {
+        "code": "OBSV",
+        "latitude": "40.0036758",
+        "name": "Sommers-Bausch Observatory",
+        "longitude": "-105.262964553175"
+    },
+    {
+        "code": "SPSC",
+        "latitude": "40.01178935",
+        "name": "Space Science Building",
+        "longitude": "-105.245695609671"
+    },
+    {
+        "code": "SLHS",
+        "latitude": "40.003834",
+        "name": "Speech, Language, and Hearing Sciences",
+        "longitude": "-105.262510817361"
+    },
+    {
+        "code": "STTB",
+        "latitude": "40.0085046",
+        "name": "Stadium Ticket Building",
+        "longitude": "-105.265535653935"
+    },
+    {
+        "code": "STRN",
+        "latitude": "39.9989894",
+        "name": "Stearns Towers ",
+        "longitude": "-105.252002364047"
+    },
+    {
+        "code": "REC",
+        "latitude": "40.01019395",
+        "name": "Student Recreation Center",
+        "longitude": "-105.269020876925"
+    },
+    {
+        "code": "TLC",
+        "latitude": "40.0069324",
+        "name": "Technology Learning Center",
+        "longitude": "-105.269836525049"
+    },
+    {
+        "code": "TB01",
+        "latitude": "40.01047045",
+        "name": "Temporary Building No. 1",
+        "longitude": "-105.270543203712"
+    },
+    {
+        "code": "TB82",
+        "latitude": "40.01172745",
+        "name": "Temporary Building No. 82",
+        "longitude": "-105.275592825"
+    },
+    {
+        "code": "TRAN",
+        "latitude": "40.0140309",
+        "name": "Transportation Center and Annex",
+        "longitude": "-105.251196069468"
+    },
+    {
+        "code": "UCTR",
+        "latitude": "40.004141",
+        "name": "University Administrative Center",
+        "longitude": "-105.268183186397"
+    },
+    {
+        "code": "TB19",
+        "latitude": "40.0042083",
+        "name": "University Administrative Center Annex",
+        "longitude": "-105.268604333013"
+    },
+    {
+        "code": "CLUB",
+        "latitude": "40.00538295",
+        "name": "University Club",
+        "longitude": "-105.270629772081"
+    },
+    {
+        "code": "UMC",
+        "latitude": "40.00673025",
+        "name": "University Memorial Center",
+        "longitude": "-105.271554250578"
+    },
+    {
+        "code": "URES",
+        "latitude": "39.99600145",
+        "name": "University Residence",
+        "longitude": "-105.247512985742"
+    },
+    {
+        "code": "THTR",
+        "latitude": "40.00807965",
+        "name": "University Theatre",
+        "longitude": "-105.273613549497"
+    },
+    {
+        "code": "W-VL",
+        "latitude": "40.0097159",
+        "name": "Varsity Lake and Bridge",
+        "longitude": "-105.274210155447"
+    },
+    {
+        "code": "VAC",
+        "latitude": "40.00758595",
+        "name": "Visual Arts Complex",
+        "longitude": "-105.270488533489"
+    },
+    {
+        "code": "WARD",
+        "latitude": "40.00515695",
+        "name": "Wardenburg Student Health Center",
+        "longitude": "-105.26888743541"
+    },
+    {
+        "code": "WLRD",
+        "latitude": "40.00514705",
+        "name": "Willard Hall",
+        "longitude": "-105.266254190275"
+    },
+    {
+        "code": "WVN",
+        "latitude": "39.9988403",
+        "name": "Williams Village 2",
+        "longitude": "-105.250309296263"
+    },
+    {
+        "code": "W-WF",
+        "latitude": "39.99807235",
+        "name": "Williams Village Field",
+        "longitude": "-105.249291825449"
+    },
+    {
+        "code": "WLAW",
+        "latitude": "40.001139",
+        "name": "Wolf Law",
+        "longitude": "-105.262154427337"
+    },
+    {
+        "code": "WDBY",
+        "latitude": "40.00923645",
+        "name": "Woodbury Arts and Sciences ",
+        "longitude": "-105.272301591829"
+    }
+]
